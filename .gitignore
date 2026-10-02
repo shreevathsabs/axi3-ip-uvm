@@ -1,0 +1,17 @@
+*.log
+*.jou
+*.wlf
+*.vcd
+*.fsdb
+*.key
+*.vstf
+cov_work/
+transcript
+work/
+xcelium.d/
+xsim.dir/
+.Xil/
+.DS_Store
+*.swp
+*.bak
+*~
